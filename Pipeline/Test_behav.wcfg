@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Test" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="574.260 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="188"></NameColumnWidth>
+      <ValueColumnWidth column_width="172"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/Test/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/Inst_en" type="logic">
+      <obj_property name="ElementShortName">Inst_en</obj_property>
+      <obj_property name="ObjectShortName">Inst_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/if_process/inst_rom/Inst_code" type="array">
+      <obj_property name="ElementShortName">Inst_code[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Inst_code[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/id_process/id_ex/ID_Inst" type="array">
+      <obj_property name="ElementShortName">ID_Inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_Inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/id_process/id_ex/EX_Inst" type="array">
+      <obj_property name="ElementShortName">EX_Inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_Inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/mem/inst_mem/Mem_Inst" type="array">
+      <obj_property name="ElementShortName">Mem_Inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Mem_Inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/mem/mem_wb/WB_Inst" type="array">
+      <obj_property name="ElementShortName">WB_Inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WB_Inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/ex_process/ex_mem/EX_Addr" type="array">
+      <obj_property name="ElementShortName">EX_Addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EX_Addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/mem/mem_wb/Mem_Addr" type="array">
+      <obj_property name="ElementShortName">Mem_Addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Mem_Addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/mem/mem_wb/WB_Addr" type="array">
+      <obj_property name="ElementShortName">WB_Addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WB_Addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/ex_process/EX_WB_en" type="logic">
+      <obj_property name="ElementShortName">EX_WB_en</obj_property>
+      <obj_property name="ObjectShortName">EX_WB_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/ex_process/Mem_WB_en" type="logic">
+      <obj_property name="ElementShortName">Mem_WB_en</obj_property>
+      <obj_property name="ObjectShortName">Mem_WB_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/mem/mem_wb/WB_en" type="logic">
+      <obj_property name="ElementShortName">WB_en</obj_property>
+      <obj_property name="ObjectShortName">WB_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/ex_process/inst_ex/EX_RAM_in" type="logic">
+      <obj_property name="ElementShortName">EX_RAM_in</obj_property>
+      <obj_property name="ObjectShortName">EX_RAM_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/ex_process/ex_mem/Mem_RAM_in" type="logic">
+      <obj_property name="ElementShortName">Mem_RAM_in</obj_property>
+      <obj_property name="ObjectShortName">Mem_RAM_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/ex_process/ex_mem/EX_RAM_out" type="logic">
+      <obj_property name="ElementShortName">EX_RAM_out</obj_property>
+      <obj_property name="ObjectShortName">EX_RAM_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test/pipeline/ex_process/ex_mem/Mem_RAM_out" type="logic">
+      <obj_property name="ElementShortName">Mem_RAM_out</obj_property>
+      <obj_property name="ObjectShortName">Mem_RAM_out</obj_property>
+   </wvobject>
+</wave_config>

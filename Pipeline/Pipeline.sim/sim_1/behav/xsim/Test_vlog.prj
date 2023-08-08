@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Pipeline.srcs/sources_1/new/EX.v" \
+"../../../../Pipeline.srcs/sources_1/new/EX_MEM.v" \
+"../../../../Pipeline.srcs/sources_1/new/ID.v" \
+"../../../../Pipeline.srcs/sources_1/new/ID_EX.v" \
+"../../../../Pipeline.srcs/sources_1/new/IF.v" \
+"../../../../Pipeline.srcs/sources_1/new/IF_ID.v" \
+"../../../../Pipeline.srcs/sources_1/new/Inst_EX.v" \
+"../../../../Pipeline.srcs/sources_1/new/Inst_Mem.v" \
+"../../../../Pipeline.srcs/sources_1/new/Inst_ROM.v" \
+"../../../../Pipeline.srcs/sources_1/new/MEM.v" \
+"../../../../Pipeline.srcs/sources_1/new/Mem_WB.v" \
+"../../../../Pipeline.srcs/sources_1/new/PC.v" \
+"../../../../Pipeline.srcs/sources_1/new/Pipeline.v" \
+"../../../../Pipeline.srcs/sources_1/new/Registers.v" \
+"../../../../Pipeline.srcs/sim_1/new/Test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

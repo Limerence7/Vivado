@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Thu Jul 20 23:53:32 2023
+# Process ID: 6028
+# Current directory: D:/IDE/Projects/Vivado/Pipeline/Pipeline.runs/synth_1
+# Command line: vivado.exe -log Pipeline.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Pipeline.tcl
+# Log file: D:/IDE/Projects/Vivado/Pipeline/Pipeline.runs/synth_1/Pipeline.vds
+# Journal file: D:/IDE/Projects/Vivado/Pipeline/Pipeline.runs/synth_1\vivado.jou
+# Running On: DESKTOP-TUCFU41, OS: Windows, CPU Frequency: 3187 MHz, CPU Physical cores: 12, Host memory: 33974 MB
+#-----------------------------------------------------------
+source Pipeline.tcl -notrace
