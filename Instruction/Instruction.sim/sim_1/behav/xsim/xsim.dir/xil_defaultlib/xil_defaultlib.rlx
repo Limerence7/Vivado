@@ -1,0 +1,11 @@
+0.7
+2020.2
+Feb 21 2023
+20:21:35
+D:/IDE/Projects/Vivado/Instruction/Instruction.gen/sources_1/ip/Inst_ROM/sim/Inst_ROM.v,1689487611,verilog,,D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Inst_Decode.v,,Inst_ROM,,,,,,,,
+D:/IDE/Projects/Vivado/Instruction/Instruction.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sim_1/new/Test.v,1689517970,verilog,,,,Test,,,,,,,,
+D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Inst_Decode.v,1689558207,verilog,,D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Inst_Exec.v,,Inst_Decode,,,,,,,,
+D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Inst_Exec.v,1689558165,verilog,,D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Instruction.v,,Inst_Exec,,,,,,,,
+D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Instruction.v,1689557370,verilog,,D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Register.v,,Instruction,,,,,,,,
+D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sources_1/new/Register.v,1689558101,verilog,,D:/IDE/Projects/Vivado/Instruction/Instruction.srcs/sim_1/new/Test.v,,Register,,,,,,,,

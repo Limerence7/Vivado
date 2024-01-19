@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Sun Jul 16 14:06:58 2023
+# Process ID: 11952
+# Current directory: D:/IDE/Projects/Vivado/Instruction/Instruction.runs/Inst_ROM_synth_1
+# Command line: vivado.exe -log Inst_ROM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Inst_ROM.tcl
+# Log file: D:/IDE/Projects/Vivado/Instruction/Instruction.runs/Inst_ROM_synth_1/Inst_ROM.vds
+# Journal file: D:/IDE/Projects/Vivado/Instruction/Instruction.runs/Inst_ROM_synth_1\vivado.jou
+# Running On: DESKTOP-TUCFU41, OS: Windows, CPU Frequency: 3187 MHz, CPU Physical cores: 12, Host memory: 33974 MB
+#-----------------------------------------------------------
+source Inst_ROM.tcl -notrace
